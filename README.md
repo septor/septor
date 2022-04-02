@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Patrick. I enjoy developing odd projects mostly for personal use.
+
+My current favorite project is Tumult. I also continue to dig deeper into Flutter.
+
 <!--
 **septor/septor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

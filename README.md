@@ -4,8 +4,6 @@ I'm Patrick. I enjoy developing odd projects mostly for personal use.
 
 My current favorite project is [Tumult](https://github.com/septor/tumult). I also continue to dig deeper into Flutter.
 
-If you live in the lower Michigan area (~20 miles on either side of Interstate 69), my wife bakes amazing things. [Try some](https://tastytreatsbytia.com/).
-
 <!--
 **septor/septor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

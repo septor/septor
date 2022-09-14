@@ -2,7 +2,8 @@
 
 I'm Patrick. I enjoy developing odd projects mostly for personal use.
 
-My current favorite project is [Tumult](https://github.com/septor/tumult). I also continue to dig deeper into Flutter.
+My current favorite project is [Tumult](https://github.com/septor/tumult), though I've put more work into [Gallery](https://github.com/septor/gallery) lately.
+I also continue to dig deeper into Flutter. I'm toying around with Godot as well.
 
 <!--
 **septor/septor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
